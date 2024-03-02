@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danutbradescu
 - 👀 I’m interested in Web Developement
-- 📖 Skills : JAVASCRIPT / REACT / ANGULAR / NODE / SQL / MongoDB / Wordpress / Joomla
+- 📖 Skills : JAVASCRIPT+Frameworks / C++ / python / html / css / Figma / Blender 4.0 / AE EFFECT
 - 🌱 I’m currently working in projects with React / Angular
 - 📫 How to reach me :
 - mail : bradescudanut@gmail.com
